@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "163447056731",
+    "firebase_url": "https://mysirenum.firebaseio.com",
+    "project_id": "mysirenum",
+    "storage_bucket": "mysirenum.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:163447056731:android:cd4b182bb46259e9",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "uk.co.activas.apps.employee"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "163447056731-hep28mhijmr6aeufckoaec1999io671f.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyD1wT9X9y558jDlNzxfAVnEFKR75LgLgG0"
         }
       ],
       "services": {
